@@ -1,0 +1,85 @@
+{
+	"siteVersion": "1.210.25",
+	"_meta": {
+		"sources": [
+			{
+				"json": "CollinsCompendium",
+				"abbreviation": "CC",
+				"full": "Collin's Compendium",
+				"version": "1.0",
+				"authors": [
+					"Jives McGee"
+				],
+				"convertedBy": [
+					"Jives McGee"
+				],
+				"color": "8000ff",
+				"url": "https://github.com/CollinWootan/collins-compendium"
+			}
+		],
+		"dateAdded": 1739370314,
+		"dateLastModified": 1739370314,
+		"edition": "classic"
+	},
+	"spell": [
+		{
+			"name": "Minor Passwall",
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": []
+			},
+			"entries": [
+				"This dagger has 3 charges. While holding it, you can use an action to expend 1 charge to cast the Minor Passwall spell from it. The dagger regains 1 expended charge daily at dawn. If you expend the dagger's last charge, roll a {@dice d20}. On a 1, the dagger crumbles into ashes and is destroyed.",
+				"A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range. You choose the opening's dimensions: up to 5 feet wide, 5 feet tall, and 1 foot deep. The passage leaves a hole in a structure surrounding it."
+			],
+			"source": "CollinsCompendium",
+			"components": {
+				"v": true,
+				"s": true,
+				"m": "Krenko's Lucky Shiv"
+			},
+			"miscTags": [
+				"PRM",
+				"OBJ"
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "Krenko's Lucky Shiv",
+			"source": "CollinsCompendium",
+			"tier": "major",
+			"rarity": "uncommon",
+			"weight": 1,
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d3 + 1}",
+			"charges": 3,
+			"entries": [
+				"This dagger has 3 charges. While holding it, you can use an action to expend 1 of its charges to cast the {@spell minor passwall|CollinsCompendium} spell from it.",
+				"The dagger regains 1 expended charge daily at dawn. If you expend the dagger's last charge, roll a {@dice d20}. On a 1, the blade of the dagger crumbles into ashes and is destroyed."
+			],
+			"attachedSpells": [
+				"minor passwall"
+			]
+		}
+	]
+}
