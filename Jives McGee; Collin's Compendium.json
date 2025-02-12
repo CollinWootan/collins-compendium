@@ -48,7 +48,6 @@
 				"fromClassList": []
 			},
 			"entries": [
-				"This dagger has 3 charges. While holding it, you can use an action to expend 1 charge to cast the Minor Passwall spell from it. The dagger regains 1 expended charge daily at dawn. If you expend the dagger's last charge, roll a {@dice d20}. On a 1, the dagger crumbles into ashes and is destroyed.",
 				"A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range. You choose the opening's dimensions: up to 5 feet wide, 5 feet tall, and 1 foot deep. The passage leaves a hole in a structure surrounding it."
 			],
 			"source": "CollinsCompendium",
