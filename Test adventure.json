@@ -32,92 +32,25 @@
 			"alId": "TestCollinsCompendium",
 			"contents": [
 				{
-					"name": "Foreword",
+					"name": "A Zib for Your Thoughts",
 					"headers": [
 						"Story Overview",
-						"The D&D Adventurers League",
-						"Preparing the Adventure",
-						"Before Play at the Table",
-						"Adjusting the Adventure",
-						"Dungeon Mastering the Adventure",
-						"Adventure Background",
-						"Overview"
+						"Running the Adventure",
+						"Starting the Adventure",
+						"Getting to Work",
+						"House Dimir Intervenes",
+						"Argona",
+						"Delrim Munn",
+						"Herringbone",
+						"Return to Lia",
+						"Further Adventures"
 					]
 				},
 				{
-					"name": "Mission 1: The Meeting at Deepnight",
-					"headers": [
-						"Helping the Harper",
-						"The Meet at the Barn",
-						"Uninvited Guests",
-						"Rewards",
-						"Experience",
-						"Treasure",
-						"Renown",
-						"Downtime",
-						"DM Rewards"
-					]
+					"name": "Pregenerated Characters"
 				},
 				{
-					"name": "Mission 2: The Screams at Dawn",
-					"headers": [
-						"The Distraught Woman",
-						"Tracking Through the Bog",
-						"The Lair Entrance",
-						"The Goblin Lair",
-						"Rewards",
-						"Experience",
-						"Treasure",
-						"DM Rewards"
-					]
-				},
-				{
-					"name": "Mission 3: The Dead at Highsun",
-					"headers": [
-						"The Keeper of the Dead",
-						"Xandria's Crypt",
-						"Rewards",
-						"Experience",
-						"Treasure",
-						"Renown",
-						"Downtime",
-						"DM Rewards"
-					]
-				},
-				{
-					"name": "Mission 4: A Shock at Evenfeast",
-					"headers": [
-						"Table 1",
-						"Table 2",
-						"Table 3",
-						"Table 4",
-						"Table 5",
-						"Table 6",
-						"The Lightning Spell",
-						"Surveying the Scene",
-						"Catching the Dwarf",
-						"Bottling the Lightning",
-						"Wrapping Up",
-						"Rewards",
-						"Experience",
-						"Treasure",
-						"Renown",
-						"Downtime",
-						"DM Rewards"
-					]
-				},
-				{
-					"name": "Mission 5: The Danger at Dusk",
-					"headers": [
-						"A Troubled Gnome",
-						"The Secret Prison",
-						"Rewards",
-						"Experience",
-						"Treasure",
-						"Renown",
-						"Downtime",
-						"DM Rewards"
-					]
+					"name": "Credits"
 				}
 			],
 			"level": {
@@ -142,15 +75,15 @@
 			"name": "A Zib for Your Thoughts 2 Electric Boogaloo",
 			"page": 2,
 			"entries": [
-				"This adventure debuts as a part of the second Ravnica Weekend, a celebration of all things Ravnica. The adventure takes place a few weeks after the events depicted in {@adventure Krenko's Way|kkw}, an adventure featured at the first Ravnica Weekend and available as the introductory adventure in {@book Guildmaster's Guide to Ravnica|ggr}. Prior knowledge of that adventure is not necessary to enjoy {@i A Zib for Your Thoughts}.",
+				"This adventure takes place Olarune 1st, 998 after the events depicted in {@adventure Krenko's Way|kkw}. Threads remaining from that adventure include : Who is Mr. Taz? What happens to Dong after being framed for the Krenko job? Will the Boramar Clan retaliate for Krenko's Ransom? Why does Falish suck so bad?",
 				{
 					"type": "section",
 					"name": "Story Overview",
 					"page": 2,
 					"entries": [
-						"Vezska, a member of the Golgari Swarm, came upon a discarded magic item on her travels throughout the Undercity of the Tenth District. She surreptitiously had the item identified as a {@item vial of thought capture|azfyt}, an item allows the user to encode and store thought strands. As a findbroker, Vezska takes discarded items and resells them to surface dwellers. Once she determined what she had, Vezska put out to her network that she was in possession of the item and got a prospective client within hours.",
-						"The client promised a handsome sum of zinos (gold pieces) to Vezska but had a catch\u2013the vial had to be delivered to them with three specific thoughts already captured. Vezska accepted the deal, got the information from the client on the individuals and thoughts that needed capturing, and contacted the adventurers for help.",
-						"The vial belongs to a powerful operative of House Dimir, the guild of secrets and spies. Its absence from its owner's possession will not go undetected for too long..."
+						"{@b Followup Threads - Mr. Taz and Dong} Mr. Taz is the alter ego of Merrix d'Cannith, and the persona he adopts when interacting with the underworld. As a scion of House Cannith South, he is currently attempting to make a bid for more power. While ostensibly supporting King Boranel of Breland and Prince Orgarev of Cyre, he also has begun to make strides towards expanding his own personal strength. His fingers are in many pies, and both Taz and Merrix are one of several personas that he uses in his various schemes. Mr. Taz was created in order to help control the criminal underworld. As such, Krenko was meant to be the first of many gang leaders supplied with weapons and tools in order to dominate their rivals. This sort of interference will warrant a retaliatory strike on the culprits (in this case, Dong). A group of warforged with distinctive crystals emerging from their bodies appeared suddenly and wiped out the entire gang. Dong will try to meet with the party to inform them of this.",
+						"{@b Followup Threads - Dragonmark Investigation} Lia Paelion, a member of Demensne of Shadow of House Phiarlan (whew, what a name), has recently become aware of the party. As Larissa was seeking more information of her heritage, she came across secrets regarding the House of Shadows schism. Lia, as one of the few survivors, tries to be aware of anyone who seeks her family out. As such, Larissa's inquiries have come to her attention. Imagine Lia's astonishment to discover a foreigner of Droaam bearing a dragonmark. As such, her curiousity is kindled. House Phiarlan has begun recruiting talented elves into their house, and adopting them by marriage into the dragonmark heritage. As such, there is a case for allowing outsiders into their secrets. However, Larissa's tiefling status is enough of an aberration to cause some panic. Lia will keep her secret for now, but requires Larissa to join the House. As such, a test must be administered. Lia will gift the party a {@item vial of thought capture|azfyt}, an item allowing the user to encode and store thought strands. As part of the test, Larissa must capture 3 specific thoughts. ",
+						"{@b Followup Threads - Boromar Clan} The Krenko Affair is certainly settled, but not to the complete satisfaction of Rikkig Shattergang. When the party contacted the Clan to deliver Krenko, their message reached Gardagig Shattergang, Rikkig's brother. Rikkig is now out a certain amount of coin, with no Krenko to amuse himself with. As such, a soft obligation is placed upon the party\u2013compete in Rikkig's pitfighting league for a calendar month. Mycellis' current renown amongst the shifters and Lower Dura will help draw crowds to his games. The party will still receive the prize money, as well as any extra winnings from gambling. However, they cannot fix results themselves anymore."
 					],
 					"id": "001"
 				},
@@ -159,11 +92,7 @@
 					"name": "Running the Adventure",
 					"page": 2,
 					"entries": [
-						"{@i A Zib for Your Thoughts} is a short Dungeons & Dragons roleplaying game adventure for a party of four to six 2nd-level adventurers, playable in about two hours. It is set in the Tenth District of Ravnica and can serve as an introductory adventure to the setting. A balance of character classes is helpful, since the adventurers will face a variety of challenges. Adventurers can be affiliated with any of the guilds.",
-						"{@area Pregenerated characters|030|x} are available with this adventure if players don't have the time or desire to create their own adventurers. If players have adventurers that they've used for {@adventure Krenko's Way|kkw}, they may level them up to 2nd level and play them for this adventure.",
-						"If you would like to run this adventure as the Dungeon Master, we recommend you read the entire adventure before attempting to run it. If you'd prefer to play, you shouldn't read any further. The adventure assumes you have the fifth edition {@book Player's Handbook|phb}, {@book Dungeon Master's Guide|dmg}, and {@book Monster Manual|mm}. If you have {@book Guildmaster's Guide to Ravnica|ggr}, it is helpful but not required.",
-						"Stat blocks for all the monsters and NPCs from {@book Guildmaster's Guide to Ravnica|ggr} are provided for your convenience.",
-						"When a creature's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|mm} or the stat block is in the appendix. Spells and nonmagical equipment mentioned in the adventure are described in the {@book Player's Handbook|phb}. Magic items are described in the {@book Dungeon Master's Guide|dmg}, unless the adventure's text directs you to an item description in {@book Guildmaster's Guide to Ravnica|ggr}.",
+						"{@i A Zib 4 ur Thots 2 Thots 2 4ious} is drawn heavily from A Zib For Your Thoughts from Ravnica. Except, this time, it's personal. And also WWE themed. The fights contained here will story beats from this month's pitfighting storylines. The writers wanted a traveling adventure theme, and so the party is cast as wanderers helping strangers they meet in their travels. This is a helpful device to introduct some world lore, as other wrestlers will be themed to appropriate cultures/concepts that the DM wishes the party to know about.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
@@ -176,109 +105,15 @@
 							"name": "Adventure Summary",
 							"page": 2,
 							"entries": [
-								"The adventure begins with the characters in a sewer tunnel below the streets where they've arranged a meeting with Vezska, a Golgari findbroker. She came into possession of a {@item vial of thought capture|azfyt}, a magic item that allows the user to capture a few thoughts and store them for later access. A client approached her and wanted to purchase not only the vial, but specific thoughts to be placed in it. Vezska decided that it was best to outsource this sort of work and contacted the adventurers.",
-								"Vezska presents an errand list to the adventurers, which includes names of three individuals and the specific thoughts that they need to store within the vial. Once all three thoughts are captured within the vial, the adventurers can return to Vezska to collect their reward. She will deliver the \"filled\" vial to her client.",
-								"The adventurers must visit three individuals and find a way to get the thoughts out of each one. Each individual has reasons for holding back their information, so the party must find a way to obtain the specific thoughts\u2013through deception, negotiation, or coercion. Once they have all three thoughts, they can return to Vezska and collect their reward.",
-								"It's not just that easy, though. The {@item vial of thought capture|azfyt} is a prized item among House Dimir, a guild that trades in knowledge and secrets. The magic item has a built-in silent alarm system to notify the owner if someone uses it. After it is first activated while in possession of the characters, the Dimir operative that owns the item is notified pending retrieval specialists to reacquire the vial from the party by whatever means necessary."
+								"The adventure begins with a few followup scenes from the last adventure. Dong will attempt to meet with Null, to warn him about the strange warforged that hit the gang hideout. Lia will meet with Larissa, to recruit her into the House. And lastly, Rikkig will meet with Mycellis to discuss the soft debt they owe him and recruit the party into his Pit Fighting league. Each scene should contain some key information for the current B plots.",
+								"As such, this adventure has 3 parts\u20131, win the fights in the league bouts; 2, obtain the 3 memories from the marks; 3, survive Mr. Taz's strike team.",
+								"The adventurers must visit three individuals and find a way to get the thoughts out of each one. Each individual has reasons for holding back their information, so the party must find a way to obtain the specific thoughts\u2013through deception, negotiation, or coercion. Once they have all three thoughts, they can return to Lia and collect their reward.",
+								"It's not just that easy, though. Mr. Taz has discovered, through reading Dong's mind, that the party were the ones responsible for Krenko's capture. He is attempting to recover Krenko's shank before it can be traced back to House Cannith. As such, a small team of spies will attempt to recover the knife at various oppurtunities."
 							],
 							"id": "004"
-						},
-						{
-							"type": "entries",
-							"name": "Veszka's Client",
-							"page": 3,
-							"entries": [
-								"Veszka was hired by a client from a guild to accomplish this task. Each guild has their own reason for wanting the specific information presented.",
-								"At the beginning of the adventure, roll a client from the chart below, or choose one. The guild affiliation of the client may influence future adventures if you choose. Vezska does not give up the description of the client unless forced to do so.",
-								{
-									"type": "table",
-									"caption": "Vezska's Client",
-									"colLabels": [
-										"d6",
-										"Faction"
-									],
-									"colStyles": [
-										"col-2 text-center",
-										"col-10"
-									],
-									"rows": [
-										[
-											"1",
-											"Azorius"
-										],
-										[
-											"2",
-											"Dimir"
-										],
-										[
-											"3",
-											"Izzet"
-										],
-										[
-											"4",
-											"Orzhov"
-										],
-										[
-											"5",
-											"Rakdos"
-										],
-										[
-											"6",
-											"Simic"
-										]
-									]
-								},
-								{
-									"type": "list",
-									"style": "list-hang-notitle",
-									"items": [
-										{
-											"type": "item",
-											"name": "Azorius",
-											"entry": "An impeccably dressed male human lawmage."
-										},
-										{
-											"type": "item",
-											"name": "Dimir",
-											"entry": "A humanoid roughly the size of a human, elf, or vedalken."
-										},
-										{
-											"type": "item",
-											"name": "Izzet",
-											"entry": "An eager, excitable female goblin."
-										},
-										{
-											"type": "item",
-											"name": "Orzhov",
-											"entry": "A winged thrull delivered payment and the message from the client."
-										},
-										{
-											"type": "item",
-											"name": "Rakdos",
-											"entry": "A flamboyantly dressed female human blood witch."
-										},
-										{
-											"type": "item",
-											"name": "Simic",
-											"entry": "A Simic hybrid\u2013an elf with greenish-blue scales and nictitating membranes on their eyes."
-										}
-									]
-								}
-							],
-							"id": "005"
 						}
 					],
 					"id": "002"
-				},
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "adventure/AZfyT/findbroker.webp"
-					},
-					"width": 1366,
-					"height": 828,
-					"credit": "Bram Sels"
 				},
 				{
 					"type": "section",
@@ -295,27 +130,14 @@
 							],
 							"id": "007"
 						},
-						"Vezska, a Devkarin elf {@creature scout} and findbroker for the Golgari Swarm has arrived to give an employment offer to the party.",
-						"If they haven't done so already, the players may want to establish connections between some of the characters before their introductions. Personal connections between characters could include:",
-						{
-							"type": "list",
-							"items": [
-								"A shared guild",
-								"A shared contact",
-								"A mutual friend",
-								"A previous shared employer",
-								"Went to the same school/academy",
-								"Frequent the same social spaces (taverns, arenas, etc.)",
-								"Live or lived in the same neighborhood"
-							]
-						},
-						"In addition, one or more of the characters might want to have Vezska as their contact in the Golgari if they haven't already established their contacts with their character. If that's the case, then the meetup was brokered through that adventurer. If not, Vezska could have simply put out word she was looking for adventurers, the party got word and assembled itself.",
+						"Lia, a House Phiarlan elf {@creature thought spy|ggr} and spy for the Demense of Motion has arrived to give an employment offer to the party.",
+						"In addition, one or more of the characters might want to have Lia as their contact in the Golgari if they haven't already established their contacts with their character. If that's the case, then the meetup was brokered through that adventurer. If not, Lia could have simply put out word she was looking for adventurers, the party got word and assembled itself.",
 						{
 							"type": "entries",
-							"name": "Vezska's Job",
+							"name": "Lia's Job",
 							"page": 4,
 							"entries": [
-								"Vezska exhibits confident yet casual demeanor when interacting with the party. After initial greetings, Vezska gets down to business, laying out the task at hand.",
+								"Lia exhibits confident yet casual demeanor when interacting with the party. After initial greetings, Lia gets down to business, laying out the task at hand.",
 								{
 									"type": "list",
 									"items": [
@@ -324,7 +146,7 @@
 										"\"My client wants not only the vial, but also three specific thoughts to be captured in it. I have the names of the individuals and the thoughts that need to be captured in the vial. I know nothing else about the specifics of the request, only that it needs to be fulfilled for the arrangement to be satisfied.\""
 									]
 								},
-								"Vezska offers the party 500 zinos (gp) upon successful completion of the task and return of the \"filled\" vial to her by no later than mid-day tomorrow. They can rendezvous at this location again. If a character attempts to negotiate a higher offer, a successful {@dc 15} Charisma ({@skill Persuasion}) check gets Vezska to up her offer to 750 zinos. This check can be made with advantage for a character that has Vezska as a contact.",
+								"Lia offers the party 500 zinos (gp) upon successful completion of the task and return of the \"filled\" vial to her by no later than mid-day tomorrow. They can rendezvous at this location again. If a character attempts to negotiate a higher offer, a successful {@dc 15} Charisma ({@skill Persuasion}) check gets Lia to up her offer to 750 zinos. This check can be made with advantage for a character that has Lia as a contact.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -332,7 +154,7 @@
 										{
 											"type": "item",
 											"name": "Treasure",
-											"entry": "If a character has Vezska as a contact, or if there is a member of the Golgari in the group, Vezska gives that character a rust-covered pendant with the Golgari symbol on it, a {@reward Golgari charm|GGR}. When activated, the charm can cast either {@spell dispel magic}, {@spell false life} (3rd-level version), or {@spell stinking cloud} once before vanishing. More information on guild charms can be found in {@book Guildmaster's Guide to Ravnica|ggr|5|guild charms}. She only has one charm to give and she favors a Golgari member over all others."
+											"entry": "If a character has Lia as a contact, or if there is a member of the Golgari in the group, Lia gives that character a rust-covered pendant with the Golgari symbol on it, a {@reward Golgari charm|GGR}. When activated, the charm can cast either {@spell dispel magic}, {@spell false life} (3rd-level version), or {@spell stinking cloud} once before vanishing. More information on guild charms can be found in {@book Guildmaster's Guide to Ravnica|ggr|5|guild charms}. She only has one charm to give and she favors a Golgari member over all others."
 										}
 									]
 								},
@@ -365,7 +187,7 @@
 							"name": "Subjects and Thoughts",
 							"page": 5,
 							"entries": [
-								"Vezska hands over the vial and gives the party the information she was provided on the subjects and what thoughts need to be obtained. All the individuals are known to reside in the Tenth District. Vezska doesn't know any of them personally or by reputation.",
+								"Lia hands over the vial and gives the party the information she was provided on the subjects and what thoughts need to be obtained. All the individuals are known to reside in the Tenth District. Lia doesn't know any of them personally or by reputation.",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -408,7 +230,7 @@
 					"name": "Getting to Work",
 					"page": 5,
 					"entries": [
-						"Once the characters have been suitably briefed and are ready to get started, Vezska reminds them that they have 24 hours to return with the vial and the required thought strands. If they don't succeed, they don't get paid. If they ask about keeping the vial, Vezska tells them that it's hers and taking from a findbroker is a good way to wind up as fertilizer.",
+						"Once the characters have been suitably briefed and are ready to get started, Lia reminds them that they have 24 hours to return with the vial and the required thought strands. If they don't succeed, they don't get paid. If they ask about keeping the vial, Lia tells them that it's hers and taking from a findbroker is a good way to wind up as fertilizer.",
 						{
 							"type": "entries",
 							"name": "Hitting the Streets",
@@ -484,7 +306,7 @@
 									"entries": [
 										"If a character in the party is a member of House Dimir, they are aware of what thought strands are and how valuable a commodity they represent to the guild of secrets. The character might sympathize with the operative who lost the vial and try to side with them in order to curry favor with their guild.",
 										"It's okay for this character to have this sort of conflict and possibly their own agenda, so long as it doesn't create too much tension within the rest of the party. Remind the player that there are many cells within the Dimir and they are operating in a relatively independent fashion. Some cells may be at odds with others, so it's not unreasonable to be keeping the operative from retrieving their lost vial.",
-										"In the end, the disposition of the vial after Vezska gives it to her client could serve as a fertile seed for another adventure for that character, amongst the many other secrets that this adventure presents"
+										"In the end, the disposition of the vial after Lia gives it to her client could serve as a fertile seed for another adventure for that character, amongst the many other secrets that this adventure presents"
 									],
 									"id": "012"
 								},
@@ -827,22 +649,22 @@
 				},
 				{
 					"type": "section",
-					"name": "Return to Vezska",
+					"name": "Return to Lia",
 					"page": 13,
 					"entries": [
 						"Once the party has obtained the thought strands, they can make their way back to their original meeting location in the sewers. About mid-morning the next day, Vzeska shows up to collect the vial.",
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"At the appointed time, Vezska appears from the same passage as before, but she brought along four kraul, bristling with weapons. Vezska smiles as she approaches with her escort.",
+								"At the appointed time, Lia appears from the same passage as before, but she brought along four kraul, bristling with weapons. Lia smiles as she approaches with her escort.",
 								"\"Don't mind them. They're just insurance. They're not necessary, right?\""
 							],
 							"id": "02e"
 						},
-						"Vezska brought four {@creature kraul warrior|GGR|kraul warriors} here just in case the party is thinking about absconding with the vial. If they hand off the vial (with or without all the thought strands), she doesn't initiate combat.",
-						"If the group succeeds in obtaining all the thought strands and hands the vial over to Vezska, they receive their promised payment. In addition, all party members receive one renown with their guilds, as Vezska spreads the word on their reliability.",
-						"If the group doesn't succeed in obtaining all the thought strands but hands over the vial, Vezska is disappointed but offers the party 100 zinos for their efforts. They do not receive a renown reward.",
-						"Of course, if the group keeps the vial and defeats Vezska, they've made potential enemies with some of the Golgari. If the vial is returned to House Dimir, all non-Golgari characters earn one renown, and Dimir characters earn two renown."
+						"Lia brought four {@creature kraul warrior|GGR|kraul warriors} here just in case the party is thinking about absconding with the vial. If they hand off the vial (with or without all the thought strands), she doesn't initiate combat.",
+						"If the group succeeds in obtaining all the thought strands and hands the vial over to Lia, they receive their promised payment. In addition, all party members receive one renown with their guilds, as Lia spreads the word on their reliability.",
+						"If the group doesn't succeed in obtaining all the thought strands but hands over the vial, Lia is disappointed but offers the party 100 zinos for their efforts. They do not receive a renown reward.",
+						"Of course, if the group keeps the vial and defeats Lia, they've made potential enemies with some of the Golgari. If the vial is returned to House Dimir, all non-Golgari characters earn one renown, and Dimir characters earn two renown."
 					],
 					"id": "02d"
 				},
@@ -855,7 +677,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Who was Vezska's client? What do they intend to do with the information they sought?",
+								"Who was Lia's client? What do they intend to do with the information they sought?",
 								"Who is in possession of the vial at the end of the adventure?",
 								"What is the identity of the Dimir operative that sent retrieval teams to obtain the vial?",
 								"Did the party withhold any additional information they learned?",
