@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "CollinsCompendiumAdventures",
-				"abbreviation": "CCA",
-				"full": "Collin's Compendium - Adventures",
+				"json": "TestCollinsCompendiumAdventures",
+				"abbreviation": "TCCA",
+				"full": "Test Collin's Compendium - Adventures",
 				"version": "1.0",
 				"authors": [
 					"Jives McGee"
@@ -13,7 +13,7 @@
 					"Jives McGee"
 				],
 				"color": "8000ff",
-				"url": "https://github.com/CollinWootan/collins-compendium-adventures"
+				"url": "https://raw.githubusercontent.com/CollinWootan/collins-compendium/refs/heads/Test/Test%20adventure.json"
 			}
 		],
 		"dateAdded": 1739370314,
@@ -24,12 +24,12 @@
 		{
 			"name": "zibby4thots",
 			"id": "z4t",
-			"source": "CollinsCompendiumAdventures",
+			"source": "TestCollinsCompendiumAdventures",
 			"group": "other",
 			"alLength": {
 				"exact": 5
 			},
-			"alId": "CollinsCompendium",
+			"alId": "TestCollinsCompendium",
 			"contents": [
 				{
 					"name": "Foreword",
@@ -135,7 +135,7 @@
 	"adventureData": [
 		{
 			"id": "z4t",
-			"source": "CollinsCompendiumAdventures",
+			"source": "TestCollinsCompendiumAdventures",
 				"data": [
 		{	"collinsthots":"adventure text",
 			"type": "section",

@@ -3,9 +3,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "CollinsCompendium",
-				"abbreviation": "CC",
-				"full": "Collin's Compendium",
+				"json": "TestCollinsCompendium",
+				"abbreviation": "TCC",
+				"full": "Test Collin's Compendium",
 				"version": "1.0",
 				"authors": [
 					"Jives McGee"
@@ -14,7 +14,7 @@
 					"Jives McGee"
 				],
 				"color": "8000ff",
-				"url": "https://github.com/CollinWootan/collins-compendium"
+				"url": "https://raw.githubusercontent.com/CollinWootan/collins-compendium/refs/heads/Test/Test%20compendium.json"
 			}
 		],
 		"dateAdded": 1739370314,
@@ -65,7 +65,7 @@
 	"item": [
 		{
 			"name": "Krenko's Lucky Shiv",
-			"source": "CollinsCompendium",
+			"source": "TestCollinsCompendium",
 			"tier": "major",
 			"rarity": "uncommon",
 			"weight": 1,
