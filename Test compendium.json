@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Phiarlan Charm",
-			"source": "CollinsCompendium",
+			"source": "TestCollinsCompendium",
 			"tier": "minor",
 			"rarity": "uncommon",
 			"entries": [
